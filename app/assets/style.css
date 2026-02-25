@@ -1,0 +1,29 @@
+
+/* Extra polish for Streamlit */
+.block-container {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.big-title {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 0;
+    white-space: normal;   /* allow wrapping */
+    overflow: visible;     /* prevent cutting */
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+.status-allow { background: #E6FFEA; }
+.status-block { background: #FFECEC; }
+.footer {
+  opacity: 0.6;
+  font-size: 0.8rem;
+  margin-top: 1rem;
+}

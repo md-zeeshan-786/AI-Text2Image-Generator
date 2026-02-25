@@ -1,0 +1,4 @@
+{
+  "filter_llm": "microsoft/Phi-3-mini-4k-instruct",
+  "sdxl_base": "stabilityai/stable-diffusion-xl-base-1.0"
+}
